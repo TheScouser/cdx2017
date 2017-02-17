@@ -10,8 +10,11 @@
     "express": "^4.14.1",
     "helmet": "^3.4.0",
     "letsencrypt": "^2.1.8",
+    "pg": "^6.1.2",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.2",
+    "react-router": "^3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
