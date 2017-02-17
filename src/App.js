@@ -8,6 +8,7 @@ class App extends Component {
       <Grid>
         <Row>
           <Col xs={12}>
+          <Navbar>
             <Navbar.Header>
               <Navbar.Brand>
                 <a href="#">CDX 2017</a>
@@ -17,6 +18,7 @@ class App extends Component {
                 <NavItem eventKey={2} href="#">Register</NavItem>
               </Nav>
             </Navbar.Header>
+          </Navbar>
           </Col>
         </Row>
       </Grid>
